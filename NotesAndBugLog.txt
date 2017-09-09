@@ -1,0 +1,3 @@
+Status: Currently refactoring old code to make it cleaner and to understand it better
+
+Currently when compiling only node, playGround, rules, and weasel create a pyc file. So I will need to investigate whether the other files are neccessary.
